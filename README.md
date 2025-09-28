@@ -3,8 +3,8 @@
 I’m a **Full-Stack Developer** passionate about building **web applications, data visualization solutions, and smart problem-solving tools**.  
 
 - 💻 **Core Interests:** Web Development, Data Visualization, Problem Solving  
-- 🌱 **Currently Learning:** Machine Learning, Cloud Computing, Advanced Java  
-- ⚡ **Fun Fact:** I love turning complex problems into simple, interactive solutions  
+- 🌱 **Currently Learning:** Data Science, Cloud Computing, Advanced Java  
+
 
 ---
 
